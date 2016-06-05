@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>https://nboucquey.github.io/ingestic/</loc>
     <lastmod>2016-06-05T15:08:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/post/good-to-read/</loc>
+    <loc>https://nboucquey.github.io/ingestic/post/good-to-read/</loc>
     <lastmod>2016-06-05T15:08:04+02:00</lastmod>
   </url>
   
